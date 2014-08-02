@@ -1,0 +1,15 @@
+# for mac and Python2.7over
+1. Install Xcode
+
+2. install easy_install
+curl -O http://python-distribute.org/distribute_setup.py
+sudo python distribute_setup.py
+
+3. install pip
+sudo easy_install pip
+
+4. install ansible
+sudo pip install ansible --quiet
+
+
+
